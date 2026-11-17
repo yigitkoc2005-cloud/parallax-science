@@ -10,4 +10,4 @@ You see RED, but your answer should be blue. Before these 3 rounds end, can you 
 - MacLeod, C. M., & MacDonald, P. A. (2000). Interdimensional interference in the Stroop effect: Uncovering the cognitive and neural anatomy of attention. Trends in Cognitive Sciences, 4(10), 383–391. https://pubmed.ncbi.nlm.nih.gov/11025281/ — Additional support for interference between relevant and irrelevant dimensions and the role of relative automaticity. The three rounds are demonstrations, not measured individual results; no viewer delay or accuracy is asserted.
 
 **45-second visual breakdown:** https://youtube.com/shorts/qz8KVlP4wpM
-**Full transcript & Q&A:** https://parallaxscience.pages.dev/shorts/stroop_effect/
+**Full transcript & Q&A:** https://yigitkoc2005-cloud.github.io/parallax-science/shorts/stroop_effect/

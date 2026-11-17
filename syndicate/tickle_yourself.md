@@ -10,4 +10,4 @@ Your robotic self-tickle can fail with 0 milliseconds of added delay. But before
 - Blakemore S-J, Wolpert DM, Frith CD, 2000, Why can't you tickle yourself?, NeuroReport 11(11):R11–R16. [Research review](https://doi.org/10.1097/00001756-200008030-00002). Corroborates the paired-robot setup, increased tickliness ratings between zero and 200 milliseconds, unchanged tactile stimulation, and predictive sensory attenuation. Mira's visit is a fictional dramatization; the brain's appointment is a metaphor.
 
 **45-second visual breakdown:** https://youtube.com/shorts/M7aGhp0eWXI
-**Full transcript & Q&A:** https://parallaxscience.pages.dev/shorts/tickle_yourself/
+**Full transcript & Q&A:** https://yigitkoc2005-cloud.github.io/parallax-science/shorts/tickle_yourself/

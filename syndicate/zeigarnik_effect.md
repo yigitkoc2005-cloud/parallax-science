@@ -14,4 +14,4 @@ Your unfinished 2:00 task could interrupt your 3:00 reading. But how could you s
 - Production clarification: 2:00 and 3:00 are illustrative everyday times, not experimental measurements. Envelopes, paper intrusions, pathways and arches are visual metaphors, not literal brain structures or measured mechanisms.
 
 **45-second visual breakdown:** https://youtube.com/shorts/qr7ffJa0z-g
-**Full transcript & Q&A:** https://parallaxscience.pages.dev/shorts/zeigarnik_effect/
+**Full transcript & Q&A:** https://yigitkoc2005-cloud.github.io/parallax-science/shorts/zeigarnik_effect/

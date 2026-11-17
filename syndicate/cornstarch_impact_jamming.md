@@ -10,4 +10,4 @@ Your fingers stir this kitchen goo easily, but your foot may meet resistance. Wh
 - Sources were model-suggested: verify before publishing, including the 'thousandths of a second' timescale.
 
 **45-second visual breakdown:** https://youtube.com/shorts/piZzfiZDeb8
-**Full transcript & Q&A:** https://parallaxscience.pages.dev/shorts/cornstarch_impact_jamming/
+**Full transcript & Q&A:** https://yigitkoc2005-cloud.github.io/parallax-science/shorts/cornstarch_impact_jamming/

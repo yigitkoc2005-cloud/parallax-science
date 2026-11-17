@@ -11,4 +11,4 @@ You risk discarding Roman concrete's repair material as waste. But why did MIT's
 - Guinness World Records, publication year unspecified, accessed 2026, [Largest masonry dome](https://www.guinnessworldrecords.com/world-records/83547-largest-masonry-dome). Supports the Pantheon's second-century construction and record dome span in s2, alongside MIT News; no exact completion year is asserted.
 
 **45-second visual breakdown:** https://youtube.com/shorts/9k-0ZjXiYv0
-**Full transcript & Q&A:** https://parallaxscience.pages.dev/shorts/roman_concrete/
+**Full transcript & Q&A:** https://yigitkoc2005-cloud.github.io/parallax-science/shorts/roman_concrete/

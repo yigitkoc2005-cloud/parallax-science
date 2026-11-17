@@ -10,4 +10,4 @@ Your eyes read STOP. But how could stickers make one classifier see Speed Limit 
 - Ilyas A, Santurkar S, Tsipras D, Engstrom L, Tran B, Madry A, 2019, Adversarial Examples Are Not Bugs, They Are Features, NeurIPS 32 (argues they exploit real but human-invisible patterns; this view is still debated)
 
 **45-second visual breakdown:** https://youtube.com/shorts/W_VmzUbnNv4
-**Full transcript & Q&A:** https://parallaxscience.pages.dev/shorts/sticker_turns_stop_sign/
+**Full transcript & Q&A:** https://yigitkoc2005-cloud.github.io/parallax-science/shorts/sticker_turns_stop_sign/

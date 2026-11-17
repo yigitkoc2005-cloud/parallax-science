@@ -11,4 +11,4 @@ Your onion tears hid 1 enzyme's role until 2002. What did scientists miss before
 - American Chemical Society / Reactions, 2016, Why Do Onions Make You Cry? Additional support for s2, s3, s6 and s7: onion-cell damage, chemical reactions and tear-triggering irritant. [Official video](https://www.youtube.com/watch?v=RaZpPwmWZ7Q).
 
 **45-second visual breakdown:** https://youtube.com/shorts/8L7pxdQrKo0
-**Full transcript & Q&A:** https://parallaxscience.pages.dev/shorts/onion_tears/
+**Full transcript & Q&A:** https://yigitkoc2005-cloud.github.io/parallax-science/shorts/onion_tears/

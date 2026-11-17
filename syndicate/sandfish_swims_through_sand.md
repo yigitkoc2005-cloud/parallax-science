@@ -9,4 +9,4 @@ Your fingers make ripples in a bowl. But one wave travels through a buried lizar
 - Ryan D. Maladen et al., 2011, Mechanical Models of Sandfish Locomotion Reveal Principles of High Performance Subsurface Sand-Swimming, Journal of the Royal Society Interface 8:1332-1345 (robot and simulation models; the best force model depends on grain packing, and the one-fifth bend ratio is a model result, verify before publishing)
 
 **45-second visual breakdown:** https://youtube.com/shorts/LcNc83G6c2I
-**Full transcript & Q&A:** https://parallaxscience.pages.dev/shorts/sandfish_swims_through_sand/
+**Full transcript & Q&A:** https://yigitkoc2005-cloud.github.io/parallax-science/shorts/sandfish_swims_through_sand/

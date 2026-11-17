@@ -10,4 +10,4 @@ You risk hiding after 1 blush and 1 glance. But before you blame them, what did 
 - Myers D.G., 2014, Myers' Psychology for AP, second edition, Unit 10, page 512, The Spotlight Effect. Independent textbook account of the Barry Manilow procedure and nearly-half prediction versus approximately 23% noticing result. https://phs.phoenix.k12.or.us/uploaded/faculty/Cornet_curriculum/Cornet_PSYCH_curriculum/Myers%27_Psychology_for_AP_-_David_G._Myers.pdf
 
 **45-second visual breakdown:** https://youtube.com/shorts/MrHJXgyATk8
-**Full transcript & Q&A:** https://parallaxscience.pages.dev/shorts/spotlight_effect/
+**Full transcript & Q&A:** https://yigitkoc2005-cloud.github.io/parallax-science/shorts/spotlight_effect/

@@ -16,4 +16,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://parallaxscience.pages.dev/sitemap.xml
+Sitemap: https://yigitkoc2005-cloud.github.io/parallax-science/sitemap.xml

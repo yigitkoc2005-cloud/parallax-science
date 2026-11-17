@@ -10,4 +10,4 @@ You see ice outside a frog's cells. So why doesn't the freeze kill it? As ice gr
 - Kenneth B. Storey, 1987, Organ-specific metabolism during freezing and thawing in a freeze-tolerant frog, American Journal of Physiology 253:R292–R297.
 
 **45-second visual breakdown:** https://youtube.com/shorts/BQQUHnJengE
-**Full transcript & Q&A:** https://parallaxscience.pages.dev/shorts/wood_frog_freeze_survival/
+**Full transcript & Q&A:** https://yigitkoc2005-cloud.github.io/parallax-science/shorts/wood_frog_freeze_survival/
