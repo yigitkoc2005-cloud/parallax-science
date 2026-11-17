@@ -1,0 +1,18 @@
+# Parallax Science Shorts
+
+> Bite-sized 60-second science explainers on physics, human biology, nature, and everyday phenomena.
+
+Updated: 2026-11-17T14:13:52Z
+Base URL: https://parallaxscience.pages.dev
+
+## Shorts & Full Transcript Pages
+- [Do People Notice Your Embarrassment? (The T-Shirt Test)](https://parallaxscience.pages.dev/shorts/spotlight_effect/): Watch at https://youtube.com/shorts/MrHJXgyATk8
+- [Why Does the Stroop Effect Slow You Down? (Try 3 Rounds)](https://parallaxscience.pages.dev/shorts/stroop_effect/): Watch at https://youtube.com/shorts/qz8KVlP4wpM
+- [Why Do Unfinished Tasks Interrupt You? (The Planning Twist)](https://parallaxscience.pages.dev/shorts/zeigarnik_effect/): Watch at https://youtube.com/shorts/qr7ffJa0z-g
+- [Why Do Onions Make You Cry? (The Missing Enzyme)](https://parallaxscience.pages.dev/shorts/onion_tears/): Watch at https://youtube.com/shorts/8L7pxdQrKo0
+- [Why Can Roman Concrete Heal Cracks? (Inside the 2023 Test)](https://parallaxscience.pages.dev/shorts/roman_concrete/): Watch at https://youtube.com/shorts/9k-0ZjXiYv0
+- [Why Can't You Tickle Yourself? (The Robot Delay Test)](https://parallaxscience.pages.dev/shorts/tickle_yourself/): Watch at https://youtube.com/shorts/M7aGhp0eWXI
+- [Why Does Cornstarch Feel Solid When You Hit It?](https://parallaxscience.pages.dev/shorts/cornstarch_impact_jamming/): Watch at https://youtube.com/shorts/piZzfiZDeb8
+- [Why Doesn't Freezing Kill This Frog?](https://parallaxscience.pages.dev/shorts/wood_frog_freeze_survival/): Watch at https://youtube.com/shorts/BQQUHnJengE
+- [Sand Looks Solid. So How Does This Lizard Swim?](https://parallaxscience.pages.dev/shorts/sandfish_swims_through_sand/): Watch at https://youtube.com/shorts/LcNc83G6c2I
+- [How Can 4 Stickers Make AI Read STOP as 45?](https://parallaxscience.pages.dev/shorts/sticker_turns_stop_sign/): Watch at https://youtube.com/shorts/W_VmzUbnNv4
