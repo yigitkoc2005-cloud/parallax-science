@@ -2,7 +2,7 @@
 
 > Bite-sized 60-second science explainers on physics, human biology, nature, and everyday phenomena.
 
-Updated: 2026-11-17T14:27:34Z
+Updated: 2026-11-17T14:30:28Z
 Base URL: https://yigitkoc2005-cloud.github.io/parallax-science
 
 ## Shorts & Full Transcript Pages
@@ -17,3 +17,4 @@ Base URL: https://yigitkoc2005-cloud.github.io/parallax-science
 - [Sand Looks Solid. So How Does This Lizard Swim?](https://yigitkoc2005-cloud.github.io/parallax-science/shorts/sandfish_swims_through_sand/): Watch at https://youtube.com/shorts/LcNc83G6c2I
 - [How Can 4 Stickers Make AI Read STOP as 45?](https://yigitkoc2005-cloud.github.io/parallax-science/shorts/sticker_turns_stop_sign/): Watch at https://youtube.com/shorts/W_VmzUbnNv4
 - [Why Does Rain Smell Like Dirt? (It's Not Just Soil)](https://yigitkoc2005-cloud.github.io/parallax-science/shorts/rain_launches_soil_aerosols/): Watch at https://youtube.com/shorts/BKd4J4IKx8o
+- [Why Does Spaghetti Keep Snapping After the First Crack?](https://yigitkoc2005-cloud.github.io/parallax-science/shorts/spaghetti_fracture_cascade/): Watch at https://youtube.com/shorts/qMRwV9z2kiA

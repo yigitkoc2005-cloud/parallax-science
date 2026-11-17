@@ -22,3 +22,4 @@ Curated 60-second visual science explanations with **full transcripts, Q&A, and 
 | Sand Looks Solid. So How Does This Lizard Swim? | [Watch Short](https://youtube.com/shorts/LcNc83G6c2I) | [Transcript & Q&A](https://yigitkoc2005-cloud.github.io/parallax-science/shorts/sandfish_swims_through_sand/) |
 | How Can 4 Stickers Make AI Read STOP as 45? | [Watch Short](https://youtube.com/shorts/W_VmzUbnNv4) | [Transcript & Q&A](https://yigitkoc2005-cloud.github.io/parallax-science/shorts/sticker_turns_stop_sign/) |
 | Why Does Rain Smell Like Dirt? (It's Not Just Soil) | [Watch Short](https://youtube.com/shorts/BKd4J4IKx8o) | [Transcript & Q&A](https://yigitkoc2005-cloud.github.io/parallax-science/shorts/rain_launches_soil_aerosols/) |
+| Why Does Spaghetti Keep Snapping After the First Crack? | [Watch Short](https://youtube.com/shorts/qMRwV9z2kiA) | [Transcript & Q&A](https://yigitkoc2005-cloud.github.io/parallax-science/shorts/spaghetti_fracture_cascade/) |
