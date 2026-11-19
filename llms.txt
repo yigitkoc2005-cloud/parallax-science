@@ -2,7 +2,7 @@
 
 > Bite-sized 60-second science explainers on physics, human biology, nature, and everyday phenomena.
 
-Updated: 2026-11-17T15:14:24Z
+Updated: 2026-11-19T04:15:55Z
 Base URL: https://yigitkoc2005-cloud.github.io/parallax-science
 
 ## Shorts & Full Transcript Pages
